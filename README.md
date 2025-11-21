@@ -1,4 +1,4 @@
-# 🐳 **Multi-Stage Docker Build (For Notes)**
+# 🐳 **Multi-Stage Docker Build**
 
 ## ⭐ **Simple Definition**
 
