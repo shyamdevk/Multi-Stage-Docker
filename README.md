@@ -1,7 +1,3 @@
-Here is a **simple, clean, beginner-friendly note** on **Multi-Stage Docker Builds**:
-
----
-
 # 🐳 **Multi-Stage Docker Build (For Notes)**
 
 ## ⭐ **Simple Definition**
